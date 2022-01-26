@@ -1,0 +1,2 @@
+2021-08-16T22:01:38.206886600 : Itemcom.buddin.vendingmachine.dto.Item@2355f8e8Retrieved
+2021-08-16T22:01:38.218887900 : Itemcom.buddin.vendingmachine.dto.Item@2355f8e8Retrieved

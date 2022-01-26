@@ -1,0 +1,9 @@
+com\sg\adressbook\dao\AddressBookDaoFileImpl.class
+com\sg\adressbook\ui\AddressBookView.class
+com\sg\adressbook\dto\Address.class
+com\sg\adressbook\controller\AddressBookController.class
+com\sg\adressbook\ui\UserIOConsoleImpl.class
+com\sg\adressbook\App.class
+com\sg\adressbook\dao\AddressBookDao.class
+com\sg\adressbook\ui\UserIO.class
+com\sg\adressbook\dao\AddressBookDaoException.class

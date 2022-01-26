@@ -1,0 +1,11 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}@author burhan
+${licensePrefix}email: burhan.u6@hotmail.co.uk
+${licensePrefix}date:
+${licensePrefix}purpose:
+ ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>

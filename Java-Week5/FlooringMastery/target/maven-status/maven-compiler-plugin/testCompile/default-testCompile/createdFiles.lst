@@ -1,0 +1,4 @@
+com\buddin\flooringmastery\dao\FlooringMasteryProductsDaoFileImplTest.class
+com\buddin\flooringmastery\dao\FlooringMasteryOrderDaoFileImplTest.class
+com\buddin\flooringmastery\dao\FlooringMasteryTaxDaoFileImplTest.class
+com\buddin\flooringmastery\service\FlooringMasteryServiceLayerImplTest.class

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.tsg.unittesting.strings.StringsExerciseATest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec <<< FAILURE! - in com.tsg.unittesting.strings.StringsExerciseATest
+testyell2  Time elapsed: 0.009 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Hello there> but was: <HELLO THERE>
+	at com.tsg.unittesting.strings.StringsExerciseATest.testyell2(StringsExerciseATest.java:49)
+
